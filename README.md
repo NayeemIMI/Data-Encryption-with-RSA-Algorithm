@@ -6,6 +6,12 @@ Here I have implemented the AES algorithm on Python - 3.
 
 -Python - 3
 
+-Random
+
+-Itertools
+
+-Functools
+
 # Features:
 -This program will ask for the RSA key size and the message.
 
